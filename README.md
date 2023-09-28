@@ -1,2 +1,2 @@
 # TempratureConvertor
-conversion from degree celsius to fahrenheit , kelvin.
+conversion from degree celsius to fahrenheit, kelvin.
