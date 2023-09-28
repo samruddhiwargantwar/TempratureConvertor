@@ -1,3 +1,3 @@
 # Bharat-Intern
-<h1>TempratureConvertor</h1> 
+<h3>TempratureConvertor</h3> 
 conversion from degree celsius to fahrenheit, kelvin.
